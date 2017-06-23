@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Romain Sommerard">
+
+    <title>KillBind</title>
+    <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">KillBind</h1>
+          <h2 class="subtitle">Bind sample sounds to your keyboard.</h2>
+        </div>
+      </div>
+    </header>
+    <main role="main">
+      <%= render @view_module, @view_template, assigns %>
+    </main>
+    <footer class="footer">
+      <div class="container">
+        <div class="content has-text-centered">
+          <p>Made with <i class="fa fa-heart red" aria-hidden="true"></i> by <strong>Romain Sommerard</strong></p>
+        </div>
+      </div>
+    </footer>
+    <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
+  </body>
+</html>

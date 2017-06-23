@@ -1,0 +1,10 @@
+@import 'node_modules/bulma/sass/utilities/initial-variables.sass';
+
+@font-face {
+  font-family: "Impact";
+  src: url("../fonts/impact.ttf");
+}
+
+$family-primary: "Impact", $family-sans-serif !default;
+
+@import 'node_modules/bulma/bulma.sass';

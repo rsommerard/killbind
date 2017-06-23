@@ -1,0 +1,47 @@
+@import 'bulma';
+@import 'font-awesome';
+@import 'colors';
+
+body {
+  color: $black;
+}
+
+.subtitle,
+.content {
+  color: $brown;
+}
+
+html,
+.hero,
+.footer,
+.section {
+  background-color: $yellow;
+}
+
+.red {
+  color: $red;
+}
+
+.button {
+  border: 3px solid $black;
+  color: $black;
+  background-color: $yellow;
+}
+
+.button:hover,
+.button:focus {
+  border-color: $red;
+  color: $red;
+}
+
+.button:focus {
+  box-shadow: inherit;
+}
+
+.button.is-active,
+.button:active {
+  background-color: $red;
+  border-color: $red;
+  box-shadow: inherit;
+  color: $white;
+}

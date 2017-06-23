@@ -1,0 +1,129 @@
+{
+  "buttons": [
+    {
+      "id": "0",
+      "key": "65",
+      "sample": "kaamelott/kaamelott-43235.mp3"
+    },
+    {
+      "id": "1",
+      "key": "66",
+      "sample": "kaamelott/kaamelott-43236.mp3"
+    },
+    {
+      "id": "2",
+      "key": "67",
+      "sample": "kaamelott/kaamelott-43237.mp3"
+    },
+    {
+      "id": "3",
+      "key": "68",
+      "sample": "kaamelott/kaamelott-43238.mp3"
+    },
+    {
+      "id": "4",
+      "key": "69",
+      "sample": "kaamelott/kaamelott-43239.mp3"
+    },
+    {
+      "id": "5",
+      "key": "70",
+      "sample": "kaamelott/kaamelott-43240.mp3"
+    },
+    {
+      "id": "6",
+      "key": "71",
+      "sample": "kaamelott/kaamelott-43241.mp3"
+    },
+    {
+      "id": "7",
+      "key": "72",
+      "sample": "kaamelott/kaamelott-43242.mp3"
+    },
+    {
+      "id": "8",
+      "key": "73",
+      "sample": "kaamelott/kaamelott-43243.mp3"
+    },
+    {
+      "id": "9",
+      "key": "74",
+      "sample": "kaamelott/kaamelott-43244.mp3"
+    },
+    {
+      "id": "10",
+      "key": "75",
+      "sample": "kaamelott/kaamelott-43245.mp3"
+    },
+    {
+      "id": "11",
+      "key": "76",
+      "sample": "kaamelott/kaamelott-43246.mp3"
+    },
+    {
+      "id": "12",
+      "key": "77",
+      "sample": "kaamelott/kaamelott-43247.mp3"
+    },
+    {
+      "id": "13",
+      "key": "78",
+      "sample": "kaamelott/kaamelott-43248.mp3"
+    },
+    {
+      "id": "14",
+      "key": "79",
+      "sample": "kaamelott/kaamelott-43249.mp3"
+    },
+    {
+      "id": "15",
+      "key": "80",
+      "sample": "kaamelott/kaamelott-43250.mp3"
+    },
+    {
+      "id": "16",
+      "key": "81",
+      "sample": "kaamelott/kaamelott-43251.mp3"
+    },
+    {
+      "id": "17",
+      "key": "82",
+      "sample": "kaamelott/kaamelott-43252.mp3"
+    },
+    {
+      "id": "18",
+      "key": "83",
+      "sample": "kaamelott/kaamelott-43253.mp3"
+    },
+    {
+      "id": "19",
+      "key": "84",
+      "sample": "kaamelott/kaamelott-43254.mp3"
+    },
+    {
+      "id": "20",
+      "key": "85",
+      "sample": "kaamelott/kaamelott-43255.mp3"
+    },
+    {
+      "id": "21",
+      "key": "86",
+      "sample": "kaamelott/kaamelott-43256.mp3"
+    },
+    {
+      "id": "22",
+      "key": "87",
+      "sample": "kaamelott/kaamelott-43257.mp3"
+    },
+    {
+      "id": "23",
+      "key": "88",
+      "sample": "kaamelott/kaamelott-43258.mp3"
+    },
+    {
+      "id": "24",
+      "key": "89",
+      "sample": "kaamelott/kaamelott-43259.mp3"
+    }
+  ]
+}

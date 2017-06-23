@@ -1,0 +1,17 @@
+<section class="section">
+  <div class="columns">
+    <div class="column is-8 is-offset-2">
+      <%= for line <- 0..4 do %>
+        <div class="columns">
+          <%= for column <- 0..4 do %>
+            <div class="column">
+              <button class="button is-fullwidth is-large" id="button-<%= line * 5 + column %>">
+                <%= line * 5 + column %>
+              </button>
+            </div>
+          <% end %>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</section>
